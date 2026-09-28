@@ -16,13 +16,13 @@ Building and shipping web applications, APIs, and interactive experiences.
 ## About Me
 
 I'm a third-year B.Tech Electronics & Computer Science Engineering
-student at Pillai College of Engineering, focused on **building and
-shipping things people can actually use**.
+student at Pillai College of Engineering, focused on **building things
+people can actually use**.
 
 I enjoy working across the stack — from **frontend and UI/UX to APIs,
 databases, deployment, GitHub workflows, and CI/CD**. My goal isn't
-just to make something work on my machine, but to take it from an
-idea to a **deployed, usable product**.
+just to make something work on my machine, but to take an idea all the
+way to a **deployed, usable product**.
 
 I've participated in **hackathons and technical competitions**, where
 I've learned to solve problems, work with teams, and build under tight
@@ -82,6 +82,26 @@ sizes.
 
 [View Showcase →](https://bento-grid-one-puce.vercel.app/) ·
 [View Source →](https://github.com/prem-03829/Bento_grid)
+
+---
+
+## Freelance & Selected Work
+
+### AutoAura
+**Freelance · 3D Animation · Web Experience**
+
+My first freelance project, built with a friend for AutoAura.
+
+I created the **3D animations and visual assets in Blender**, including
+the animations integrated into the **React + GSAP website**, along with
+additional 3D visuals for the website and social media content.
+
+Worked on bringing 3D assets and animations into a web experience,
+focusing on motion, presentation, and visual impact.
+
+`Blender` `React` `GSAP` `JavaScript` `Web Animation`
+
+[Visit Website →](https://autoauracreation.com/)
 
 ---
 
@@ -149,7 +169,7 @@ sizes.
 🏆 **Nexus Hackathon — 1st Place** · Bharati Vidyapeeth Medical College, Pune  
 🏆 **Simulink Game Day 2024 — Winner**  
 🏆 **Upside Down UI/UX Competition — Winner** · Solo Event  
-🥉 **Vibe Coding Competition — 3rd Place**  · Solo Event  
+🥉 **Vibe Coding Competition — 3rd Place** · Solo Event  
 🎓 **1st in Department — First Year B.Tech** · Electronics & Computer Science Engineering
 
 **Actively participating in hackathons and technical competitions, and continuing to compete and build.**
@@ -186,6 +206,15 @@ sizes.
     </td>
   </tr>
 </table>
+
+### Contributions
+
+<p align="center">
+  <img
+      src="https://github-commit-map.yzzi.icu/api/contributions/prem-03829/svg"
+    alt="GitHub Contribution Graph"
+  />
+</p>
 
 ---
 
